@@ -8,3 +8,20 @@ body {
 }
 #header-level-3 {color:#27ad61;
 }
+	#ma-boite {
+		width: 300px;
+		height: 120px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 10px;
+		padding-right: 10px;
+		margin-top: 5px;
+		margin-bottom: 5px;
+		margin-left: 5px;
+		margin-right: 5px;
+		color:#9b0a58;
+		background-color: #f9dbf5;
+		border-color: #db92d1;
+		position:fixed;
+		left:250px;
+	}
